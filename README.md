@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently learning **about a Data science**
 
-- ⚡ Fun fact **I crazy fan of sonic the hedgehog**
-
-
 <p align="left">
 </p>
 
